@@ -3,8 +3,7 @@ package troops;
 public class Troop {
 	public int noOfBarbarian = 0;
 	public int noOfArcher =0;
-	
-	
+
 	public int getNoOfBarbarian() {
 		return noOfBarbarian;
 	}
@@ -17,7 +16,4 @@ public class Troop {
 	public void setNoOfArcher(int noOfArcher) {
 		this.noOfArcher = noOfArcher;
 	}
-	
-	
-	
 }
